@@ -19,3 +19,5 @@ git config --global http.proxy http://10.1.118.254:3128
 git commit -m "identificação do comit - Comente o que você adicionou/alterou"
 git add (arquivo)
 git status
+git push
+git diff
