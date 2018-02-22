@@ -1,4 +1,4 @@
-##Comandos Unix:
+#Comandos Unix:
 
 ls- lista
 ls -al - lista arquivos ocultos
@@ -12,7 +12,7 @@ mv - mover arquivos
 pwd - mostra o path atual
 cat - abre o arquivo
 
-##Comandos GIT:
+#Comandos GIT:
 
 git init - inicia o Git
 git config --global http.proxy http://10.1.118.254:3128
